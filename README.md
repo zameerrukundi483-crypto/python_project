@@ -1,4 +1,4 @@
-# python_project
-🛍Sales Analysis using Pandas 📘Project Overview
+# Python_Diwali_Sales_Analysis
+Python project for beginners- Analyze Diwali sales data to improve customer experience and sales
 
-This mini project demonstrates how to use Pandas, NumPy, and Matplotlib to perform data analysis on a sales dataset. It covers data cleaning. manipulation, and visualization techniques ideal for beginners learning data analysis in Python.
+## Watch complete tutorial video: https://www.youtube.com/watch?v=KgCgpCIOkIs
